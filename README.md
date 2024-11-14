@@ -1,6 +1,8 @@
 # Apex Robotic Team - NXPCUP Project
 
-![Apex Logo](./Images/APEX.png)
+<div align="center">
+  <img src="./Images/APEX.png" alt="Apex Logo" width="33%">
+</div>
 
 ## Descrizione del Progetto
 
