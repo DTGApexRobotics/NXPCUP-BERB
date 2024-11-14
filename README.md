@@ -1,6 +1,6 @@
 # Apex Robotic Team - NXPCUP Project
 
-![Apex Logo](./Images/LOGO.png)
+![Apex Logo](./Images/APEX.png)
 
 ## Descrizione del Progetto
 
@@ -8,7 +8,7 @@ Apex è un team di robotica composto da studenti dell'Università di Padova, con
 
 ## NXPCUP
 
-![Apex Logo](./Images/APEX  (6).png)
+![Apex Logo](./Images/NXPCUP.png)
 
 La **NXPCUP** è una competizione annuale organizzata da NXP Semiconductors, in cui i team devono sviluppare veicoli autonomi in grado di seguire un percorso e superare ostacoli in modo preciso e sicuro. La competizione si concentra sull'applicazione pratica di concetti avanzati di controllo, navigazione e percezione in un contesto altamente dinamico.
 
