@@ -1,0 +1,1 @@
+/home/apex/cognipilot/cranium/build/synapse_msgs/rosidl_typesupport_introspection_c/synapse_msgs/msg/detail/status__rosidl_typesupport_introspection_c.h

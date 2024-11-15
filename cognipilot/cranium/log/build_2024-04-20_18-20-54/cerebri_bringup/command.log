@@ -1,0 +1,6 @@
+Invoking command in '/home/apex/cognipilot/cranium/build/cerebri_bringup': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/apex/cognipilot/cranium/src/cerebri_bringup -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/apex/cognipilot/cranium/install/cerebri_bringup
+Invoked command in '/home/apex/cognipilot/cranium/build/cerebri_bringup' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/apex/cognipilot/cranium/src/cerebri_bringup -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/apex/cognipilot/cranium/install/cerebri_bringup
+Invoking command in '/home/apex/cognipilot/cranium/build/cerebri_bringup': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/apex/cognipilot/cranium/build/cerebri_bringup -- -j4 -l4
+Invoked command in '/home/apex/cognipilot/cranium/build/cerebri_bringup' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/apex/cognipilot/cranium/build/cerebri_bringup -- -j4 -l4
+Invoking command in '/home/apex/cognipilot/cranium/build/cerebri_bringup': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/apex/cognipilot/cranium/build/cerebri_bringup
+Invoked command in '/home/apex/cognipilot/cranium/build/cerebri_bringup' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/apex/cognipilot/cranium/build/cerebri_bringup

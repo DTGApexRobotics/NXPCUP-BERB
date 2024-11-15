@@ -1,0 +1,3 @@
+/home/apex/cognipilot/cranium/install/synapse_tinyframe/lib/libsynapse_tinyframe.a
+/home/apex/cognipilot/cranium/install/synapse_tinyframe/share/synapse_tinyframe/cmake/synapse_tinyframeExport.cmake
+/home/apex/cognipilot/cranium/install/synapse_tinyframe/share/synapse_tinyframe/cmake/synapse_tinyframeExport-noconfig.cmake

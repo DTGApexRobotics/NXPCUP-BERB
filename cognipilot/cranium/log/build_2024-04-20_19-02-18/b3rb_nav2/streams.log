@@ -1,0 +1,33 @@
+[0.074s] Invoking command in '/home/apex/cognipilot/cranium/build/b3rb_nav2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/apex/cognipilot/cranium/build/b3rb_nav2 -- -j4 -l4
+[0.236s] Invoked command in '/home/apex/cognipilot/cranium/build/b3rb_nav2' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/apex/cognipilot/cranium/build/b3rb_nav2 -- -j4 -l4
+[0.327s] Invoking command in '/home/apex/cognipilot/cranium/build/b3rb_nav2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/apex/cognipilot/cranium/build/b3rb_nav2
+[0.352s] -- Install configuration: ""
+[0.355s] -- Execute custom install script
+[0.357s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/b3rb_nav2/share/b3rb_nav2/config/localization.yaml
+[0.358s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/b3rb_nav2/share/b3rb_nav2/config/nav2.yaml
+[0.359s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/b3rb_nav2/share/b3rb_nav2/config/nav_through_poses_bt.xml
+[0.361s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/b3rb_nav2/share/b3rb_nav2/config/nav_to_pose_bt.xml
+[0.362s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/b3rb_nav2/share/b3rb_nav2/config/slam.yaml
+[0.364s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/b3rb_nav2/share/b3rb_nav2/maps/basic_map.pgm
+[0.365s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/b3rb_nav2/share/b3rb_nav2/maps/basic_map.yaml
+[0.366s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/b3rb_nav2/share/b3rb_nav2/maps/depot.pgm
+[0.367s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/b3rb_nav2/share/b3rb_nav2/maps/depot.yaml
+[0.369s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/b3rb_nav2/share/b3rb_nav2/launch/localization.launch.py
+[0.371s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/b3rb_nav2/share/b3rb_nav2/launch/nav2.launch.py
+[0.372s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/b3rb_nav2/share/b3rb_nav2/launch/slam.launch.py
+[0.373s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/b3rb_nav2/share/ament_index/resource_index/package_run_dependencies/b3rb_nav2
+[0.375s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/b3rb_nav2/share/ament_index/resource_index/parent_prefix_path/b3rb_nav2
+[0.376s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/b3rb_nav2/share/b3rb_nav2/environment/ament_prefix_path.sh
+[0.378s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/b3rb_nav2/share/b3rb_nav2/environment/ament_prefix_path.dsv
+[0.379s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/b3rb_nav2/share/b3rb_nav2/environment/path.sh
+[0.380s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/b3rb_nav2/share/b3rb_nav2/environment/path.dsv
+[0.383s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/b3rb_nav2/share/b3rb_nav2/local_setup.bash
+[0.395s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/b3rb_nav2/share/b3rb_nav2/local_setup.sh
+[0.395s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/b3rb_nav2/share/b3rb_nav2/local_setup.zsh
+[0.396s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/b3rb_nav2/share/b3rb_nav2/local_setup.dsv
+[0.396s] -- Symlinking: /home/apex/cognipilot/cranium/install/b3rb_nav2/share/b3rb_nav2/package.dsv
+[0.412s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/b3rb_nav2/share/ament_index/resource_index/packages/b3rb_nav2
+[0.413s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/b3rb_nav2/share/b3rb_nav2/cmake/b3rb_nav2Config.cmake
+[0.413s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/b3rb_nav2/share/b3rb_nav2/cmake/b3rb_nav2Config-version.cmake
+[0.413s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/b3rb_nav2/share/b3rb_nav2/package.xml
+[0.423s] Invoked command in '/home/apex/cognipilot/cranium/build/b3rb_nav2' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/apex/cognipilot/cranium/build/b3rb_nav2

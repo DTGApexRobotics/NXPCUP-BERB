@@ -1,0 +1,1 @@
+/home/apex/cognipilot/cranium/build/synapse_ros/ament_cmake_environment_hooks/local_setup.sh

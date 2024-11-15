@@ -1,0 +1,26 @@
+[5.458s] Invoking command in '/home/apex/cognipilot/cranium/build/nxp_cup_vision': CMAKE_PREFIX_PATH=/home/apex/cognipilot/cranium/install/synapse_msgs:/home/apex/cognipilot/electrode/install/electrode:/home/apex/cognipilot/cranium/install/synapse_ros:/home/apex/cognipilot/cranium/install/synapse_gz:/home/apex/cognipilot/cranium/install/synapse_tinyframe:/home/apex/cognipilot/cranium/install/synapse_protobuf:/home/apex/cognipilot/cranium/install/corti:/home/apex/cognipilot/cranium/install/dream_world:/home/apex/cognipilot/cranium/install/cerebri_bringup:/home/apex/cognipilot/cranium/install/b3rb_simulator:/home/apex/cognipilot/cranium/install/b3rb_desktop:/home/apex/cognipilot/cranium/install/b3rb_rviz:/home/apex/cognipilot/cranium/install/b3rb_nav2:/home/apex/cognipilot/cranium/install/b3rb_gz_resource:/home/apex/cognipilot/cranium/install/b3rb_gz_bringup:/home/apex/cognipilot/cranium/install/b3rb_description LD_LIBRARY_PATH=/home/apex/cognipilot/cranium/install/synapse_msgs/lib:/home/apex/cognipilot/cranium/install/synapse_tinyframe/lib:/home/apex/cognipilot/cranium/install/synapse_protobuf/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib PYTHONPATH=/home/apex/cognipilot/cranium/build/nxp_cup_vision/prefix_override:/home/apex/cognipilot/cranium/install/nxp_cup_vision/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/apex/cognipilot/cranium/build/nxp_cup_vision/build --no-deps symlink_data
+[6.407s] running develop
+[7.001s] running egg_info
+[7.001s] creating nxp_cup_vision.egg-info
+[7.002s] writing nxp_cup_vision.egg-info/PKG-INFO
+[7.003s] writing dependency_links to nxp_cup_vision.egg-info/dependency_links.txt
+[7.003s] writing entry points to nxp_cup_vision.egg-info/entry_points.txt
+[7.004s] writing requirements to nxp_cup_vision.egg-info/requires.txt
+[7.004s] writing top-level names to nxp_cup_vision.egg-info/top_level.txt
+[7.005s] writing manifest file 'nxp_cup_vision.egg-info/SOURCES.txt'
+[7.010s] reading manifest file 'nxp_cup_vision.egg-info/SOURCES.txt'
+[7.012s] writing manifest file 'nxp_cup_vision.egg-info/SOURCES.txt'
+[7.016s] running build_ext
+[7.017s] Creating /home/apex/cognipilot/cranium/install/nxp_cup_vision/lib/python3.10/site-packages/nxp-cup-vision.egg-link (link to .)
+[7.020s] Installing nxp_track_vision script to /home/apex/cognipilot/cranium/install/nxp_cup_vision/lib/nxp_cup_vision
+[7.020s] 
+[7.021s] Installed /home/apex/cognipilot/cranium/build/nxp_cup_vision
+[7.021s] running symlink_data
+[7.022s] creating /home/apex/cognipilot/cranium/install/nxp_cup_vision/share/ament_index
+[7.022s] creating /home/apex/cognipilot/cranium/install/nxp_cup_vision/share/ament_index/resource_index
+[7.022s] creating /home/apex/cognipilot/cranium/install/nxp_cup_vision/share/ament_index/resource_index/packages
+[7.023s] symbolically linking /home/apex/cognipilot/cranium/build/nxp_cup_vision/resource/nxp_cup_vision -> /home/apex/cognipilot/cranium/install/nxp_cup_vision/share/ament_index/resource_index/packages
+[7.023s] symbolically linking /home/apex/cognipilot/cranium/build/nxp_cup_vision/package.xml -> /home/apex/cognipilot/cranium/install/nxp_cup_vision/share/nxp_cup_vision
+[7.024s] creating /home/apex/cognipilot/cranium/install/nxp_cup_vision/share/nxp_cup_vision/launch
+[7.024s] symbolically linking /home/apex/cognipilot/cranium/build/nxp_cup_vision/launch/nxp_cup_vision_launch.py -> /home/apex/cognipilot/cranium/install/nxp_cup_vision/share/nxp_cup_vision/launch
+[7.151s] Invoked command in '/home/apex/cognipilot/cranium/build/nxp_cup_vision' returned '0': CMAKE_PREFIX_PATH=/home/apex/cognipilot/cranium/install/synapse_msgs:/home/apex/cognipilot/electrode/install/electrode:/home/apex/cognipilot/cranium/install/synapse_ros:/home/apex/cognipilot/cranium/install/synapse_gz:/home/apex/cognipilot/cranium/install/synapse_tinyframe:/home/apex/cognipilot/cranium/install/synapse_protobuf:/home/apex/cognipilot/cranium/install/corti:/home/apex/cognipilot/cranium/install/dream_world:/home/apex/cognipilot/cranium/install/cerebri_bringup:/home/apex/cognipilot/cranium/install/b3rb_simulator:/home/apex/cognipilot/cranium/install/b3rb_desktop:/home/apex/cognipilot/cranium/install/b3rb_rviz:/home/apex/cognipilot/cranium/install/b3rb_nav2:/home/apex/cognipilot/cranium/install/b3rb_gz_resource:/home/apex/cognipilot/cranium/install/b3rb_gz_bringup:/home/apex/cognipilot/cranium/install/b3rb_description LD_LIBRARY_PATH=/home/apex/cognipilot/cranium/install/synapse_msgs/lib:/home/apex/cognipilot/cranium/install/synapse_tinyframe/lib:/home/apex/cognipilot/cranium/install/synapse_protobuf/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib PYTHONPATH=/home/apex/cognipilot/cranium/build/nxp_cup_vision/prefix_override:/home/apex/cognipilot/cranium/install/nxp_cup_vision/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/apex/cognipilot/cranium/build/nxp_cup_vision/build --no-deps symlink_data

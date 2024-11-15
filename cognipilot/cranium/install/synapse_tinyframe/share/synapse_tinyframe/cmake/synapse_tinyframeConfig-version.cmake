@@ -1,0 +1,1 @@
+/home/apex/cognipilot/cranium/build/synapse_tinyframe/ament_cmake_core/synapse_tinyframeConfig-version.cmake

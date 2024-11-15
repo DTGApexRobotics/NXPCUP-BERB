@@ -1,0 +1,9 @@
+/home/apex/cognipilot/electrode/build/electrode/CMakeFiles/uninstall.dir
+/home/apex/cognipilot/electrode/build/electrode/CMakeFiles/electrode_uninstall.dir
+/home/apex/cognipilot/electrode/build/electrode/CMakeFiles/test.dir
+/home/apex/cognipilot/electrode/build/electrode/CMakeFiles/edit_cache.dir
+/home/apex/cognipilot/electrode/build/electrode/CMakeFiles/rebuild_cache.dir
+/home/apex/cognipilot/electrode/build/electrode/CMakeFiles/list_install_components.dir
+/home/apex/cognipilot/electrode/build/electrode/CMakeFiles/install.dir
+/home/apex/cognipilot/electrode/build/electrode/CMakeFiles/install/local.dir
+/home/apex/cognipilot/electrode/build/electrode/CMakeFiles/install/strip.dir

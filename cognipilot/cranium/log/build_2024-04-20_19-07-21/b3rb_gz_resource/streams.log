@@ -1,0 +1,29 @@
+[0.039s] Invoking command in '/home/apex/cognipilot/cranium/build/b3rb_gz_resource': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/apex/cognipilot/cranium/build/b3rb_gz_resource -- -j4 -l4
+[0.194s] Invoked command in '/home/apex/cognipilot/cranium/build/b3rb_gz_resource' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/apex/cognipilot/cranium/build/b3rb_gz_resource -- -j4 -l4
+[0.277s] Invoking command in '/home/apex/cognipilot/cranium/build/b3rb_gz_resource': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/apex/cognipilot/cranium/build/b3rb_gz_resource
+[0.300s] -- Install configuration: ""
+[0.301s] -- Execute custom install script
+[0.302s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/b3rb_gz_resource/share/b3rb_gz_resource/models/b3rb/materials/textures/CogniPilot.png
+[0.303s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/b3rb_gz_resource/share/b3rb_gz_resource/models/b3rb/materials/textures/NXP.png
+[0.303s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/b3rb_gz_resource/share/b3rb_gz_resource/models/b3rb/meshes/STL27L.dae
+[0.304s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/b3rb_gz_resource/share/b3rb_gz_resource/models/b3rb/meshes/b3rb.dae
+[0.304s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/b3rb_gz_resource/share/b3rb_gz_resource/models/b3rb/meshes/wheel.dae
+[0.304s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/b3rb_gz_resource/share/b3rb_gz_resource/models/b3rb/model.config
+[0.305s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/b3rb_gz_resource/share/b3rb_gz_resource/models/b3rb/model.sdf
+[0.305s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/b3rb_gz_resource/share/b3rb_gz_resource/environment/b3rb_gz_resource.dsv
+[0.306s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/b3rb_gz_resource/share/ament_index/resource_index/package_run_dependencies/b3rb_gz_resource
+[0.306s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/b3rb_gz_resource/share/ament_index/resource_index/parent_prefix_path/b3rb_gz_resource
+[0.307s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/b3rb_gz_resource/share/b3rb_gz_resource/environment/ament_prefix_path.sh
+[0.308s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/b3rb_gz_resource/share/b3rb_gz_resource/environment/ament_prefix_path.dsv
+[0.308s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/b3rb_gz_resource/share/b3rb_gz_resource/environment/path.sh
+[0.309s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/b3rb_gz_resource/share/b3rb_gz_resource/environment/path.dsv
+[0.310s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/b3rb_gz_resource/share/b3rb_gz_resource/local_setup.bash
+[0.312s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/b3rb_gz_resource/share/b3rb_gz_resource/local_setup.sh
+[0.316s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/b3rb_gz_resource/share/b3rb_gz_resource/local_setup.zsh
+[0.317s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/b3rb_gz_resource/share/b3rb_gz_resource/local_setup.dsv
+[0.318s] -- Symlinking: /home/apex/cognipilot/cranium/install/b3rb_gz_resource/share/b3rb_gz_resource/package.dsv
+[0.345s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/b3rb_gz_resource/share/ament_index/resource_index/packages/b3rb_gz_resource
+[0.347s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/b3rb_gz_resource/share/b3rb_gz_resource/cmake/b3rb_gz_resourceConfig.cmake
+[0.348s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/b3rb_gz_resource/share/b3rb_gz_resource/cmake/b3rb_gz_resourceConfig-version.cmake
+[0.349s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/b3rb_gz_resource/share/b3rb_gz_resource/package.xml
+[0.365s] Invoked command in '/home/apex/cognipilot/cranium/build/b3rb_gz_resource' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/apex/cognipilot/cranium/build/b3rb_gz_resource

@@ -1,0 +1,25 @@
+[0.085s] Invoking command in '/home/apex/cognipilot/cranium/build/synapse_gz': AMENT_PREFIX_PATH=/home/apex/cognipilot/cranium/install/synapse_tinyframe:/home/apex/cognipilot/cranium/install/synapse_protobuf:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/apex/cognipilot/cranium/install/synapse_tinyframe:/home/apex/cognipilot/cranium/install/synapse_protobuf:/opt/ros/humble LD_LIBRARY_PATH=/home/apex/cognipilot/cranium/install/synapse_tinyframe/lib:/home/apex/cognipilot/cranium/install/synapse_protobuf/lib:${LD_LIBRARY_PATH} /usr/bin/cmake --build /home/apex/cognipilot/cranium/build/synapse_gz -- -j4 -l4
+[0.231s] [35m[1mConsolidate compiler generated dependencies of target synapse_gz[0m
+[0.355s] [100%] Built target synapse_gz
+[0.381s] Invoked command in '/home/apex/cognipilot/cranium/build/synapse_gz' returned '0': AMENT_PREFIX_PATH=/home/apex/cognipilot/cranium/install/synapse_tinyframe:/home/apex/cognipilot/cranium/install/synapse_protobuf:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/apex/cognipilot/cranium/install/synapse_tinyframe:/home/apex/cognipilot/cranium/install/synapse_protobuf:/opt/ros/humble LD_LIBRARY_PATH=/home/apex/cognipilot/cranium/install/synapse_tinyframe/lib:/home/apex/cognipilot/cranium/install/synapse_protobuf/lib:${LD_LIBRARY_PATH} /usr/bin/cmake --build /home/apex/cognipilot/cranium/build/synapse_gz -- -j4 -l4
+[0.472s] Invoking command in '/home/apex/cognipilot/cranium/build/synapse_gz': AMENT_PREFIX_PATH=/home/apex/cognipilot/cranium/install/synapse_tinyframe:/home/apex/cognipilot/cranium/install/synapse_protobuf:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/apex/cognipilot/cranium/install/synapse_tinyframe:/home/apex/cognipilot/cranium/install/synapse_protobuf:/opt/ros/humble LD_LIBRARY_PATH=/home/apex/cognipilot/cranium/install/synapse_tinyframe/lib:/home/apex/cognipilot/cranium/install/synapse_protobuf/lib:${LD_LIBRARY_PATH} /usr/bin/cmake --install /home/apex/cognipilot/cranium/build/synapse_gz
+[0.494s] -- Install configuration: ""
+[0.494s] -- Execute custom install script
+[0.495s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/synapse_gz/lib/synapse_gz/synapse_gz
+[0.496s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/synapse_gz/share/synapse_gz/launch/synapse_gz.launch.py
+[0.497s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/synapse_gz/share/ament_index/resource_index/package_run_dependencies/synapse_gz
+[0.497s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/synapse_gz/share/ament_index/resource_index/parent_prefix_path/synapse_gz
+[0.498s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/synapse_gz/share/synapse_gz/environment/ament_prefix_path.sh
+[0.499s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/synapse_gz/share/synapse_gz/environment/ament_prefix_path.dsv
+[0.499s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/synapse_gz/share/synapse_gz/environment/path.sh
+[0.500s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/synapse_gz/share/synapse_gz/environment/path.dsv
+[0.501s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/synapse_gz/share/synapse_gz/local_setup.bash
+[0.503s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/synapse_gz/share/synapse_gz/local_setup.sh
+[0.503s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/synapse_gz/share/synapse_gz/local_setup.zsh
+[0.503s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/synapse_gz/share/synapse_gz/local_setup.dsv
+[0.503s] -- Symlinking: /home/apex/cognipilot/cranium/install/synapse_gz/share/synapse_gz/package.dsv
+[0.525s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/synapse_gz/share/ament_index/resource_index/packages/synapse_gz
+[0.526s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/synapse_gz/share/synapse_gz/cmake/synapse_gzConfig.cmake
+[0.526s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/synapse_gz/share/synapse_gz/cmake/synapse_gzConfig-version.cmake
+[0.527s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/synapse_gz/share/synapse_gz/package.xml
+[0.533s] Invoked command in '/home/apex/cognipilot/cranium/build/synapse_gz' returned '0': AMENT_PREFIX_PATH=/home/apex/cognipilot/cranium/install/synapse_tinyframe:/home/apex/cognipilot/cranium/install/synapse_protobuf:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/apex/cognipilot/cranium/install/synapse_tinyframe:/home/apex/cognipilot/cranium/install/synapse_protobuf:/opt/ros/humble LD_LIBRARY_PATH=/home/apex/cognipilot/cranium/install/synapse_tinyframe/lib:/home/apex/cognipilot/cranium/install/synapse_protobuf/lib:${LD_LIBRARY_PATH} /usr/bin/cmake --install /home/apex/cognipilot/cranium/build/synapse_gz

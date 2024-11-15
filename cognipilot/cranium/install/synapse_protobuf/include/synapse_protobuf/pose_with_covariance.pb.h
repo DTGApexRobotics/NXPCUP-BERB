@@ -1,0 +1,1 @@
+/home/apex/cognipilot/cranium/build/synapse_protobuf/proto/pose_with_covariance.pb.h

@@ -1,0 +1,48 @@
+[0.017s] Invoking command in '/home/apex/cognipilot/cranium/build/b3rb_rviz': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/apex/cognipilot/cranium/src/b3rb_desktop/b3rb_rviz -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/apex/cognipilot/cranium/install/b3rb_rviz
+[0.160s] -- The C compiler identification is GNU 11.4.0
+[0.292s] -- The CXX compiler identification is GNU 11.4.0
+[0.307s] -- Detecting C compiler ABI info
+[0.478s] -- Detecting C compiler ABI info - done
+[0.502s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.503s] -- Detecting C compile features
+[0.503s] -- Detecting C compile features - done
+[0.510s] -- Detecting CXX compiler ABI info
+[0.722s] -- Detecting CXX compiler ABI info - done
+[0.739s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.740s] -- Detecting CXX compile features
+[0.741s] -- Detecting CXX compile features - done
+[0.747s] -- Found ament_cmake: 1.3.8 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.174s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[1.398s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[1.453s] -- Found ament_lint_auto: 0.12.10 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[1.671s] -- Added test 'flake8' to check Python code syntax and style conventions
+[1.674s] -- Added test 'lint_cmake' to check CMake code style
+[1.676s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[1.685s] -- Added test 'xmllint' to check XML markup files
+[1.690s] -- Configuring done
+[1.696s] -- Generating done
+[1.698s] -- Build files have been written to: /home/apex/cognipilot/cranium/build/b3rb_rviz
+[1.709s] Invoked command in '/home/apex/cognipilot/cranium/build/b3rb_rviz' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/apex/cognipilot/cranium/src/b3rb_desktop/b3rb_rviz -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/apex/cognipilot/cranium/install/b3rb_rviz
+[1.713s] Invoking command in '/home/apex/cognipilot/cranium/build/b3rb_rviz': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/apex/cognipilot/cranium/build/b3rb_rviz -- -j4 -l4
+[1.811s] Invoked command in '/home/apex/cognipilot/cranium/build/b3rb_rviz' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/apex/cognipilot/cranium/build/b3rb_rviz -- -j4 -l4
+[1.863s] Invoking command in '/home/apex/cognipilot/cranium/build/b3rb_rviz': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/apex/cognipilot/cranium/build/b3rb_rviz
+[1.880s] -- Install configuration: ""
+[1.882s] -- Execute custom install script
+[1.883s] -- Symlinking: /home/apex/cognipilot/cranium/install/b3rb_rviz/share/b3rb_rviz/rviz/nav2/robot.rviz
+[1.903s] -- Symlinking: /home/apex/cognipilot/cranium/install/b3rb_rviz/share/b3rb_rviz/launch/view_robot.launch.py
+[1.921s] -- Symlinking: /home/apex/cognipilot/cranium/install/b3rb_rviz/share/ament_index/resource_index/package_run_dependencies/b3rb_rviz
+[1.942s] -- Symlinking: /home/apex/cognipilot/cranium/install/b3rb_rviz/share/ament_index/resource_index/parent_prefix_path/b3rb_rviz
+[1.962s] -- Symlinking: /home/apex/cognipilot/cranium/install/b3rb_rviz/share/b3rb_rviz/environment/ament_prefix_path.sh
+[1.989s] -- Symlinking: /home/apex/cognipilot/cranium/install/b3rb_rviz/share/b3rb_rviz/environment/ament_prefix_path.dsv
+[2.010s] -- Symlinking: /home/apex/cognipilot/cranium/install/b3rb_rviz/share/b3rb_rviz/environment/path.sh
+[2.030s] -- Symlinking: /home/apex/cognipilot/cranium/install/b3rb_rviz/share/b3rb_rviz/environment/path.dsv
+[2.050s] -- Symlinking: /home/apex/cognipilot/cranium/install/b3rb_rviz/share/b3rb_rviz/local_setup.bash
+[2.070s] -- Symlinking: /home/apex/cognipilot/cranium/install/b3rb_rviz/share/b3rb_rviz/local_setup.sh
+[2.095s] -- Symlinking: /home/apex/cognipilot/cranium/install/b3rb_rviz/share/b3rb_rviz/local_setup.zsh
+[2.116s] -- Symlinking: /home/apex/cognipilot/cranium/install/b3rb_rviz/share/b3rb_rviz/local_setup.dsv
+[2.136s] -- Symlinking: /home/apex/cognipilot/cranium/install/b3rb_rviz/share/b3rb_rviz/package.dsv
+[2.158s] -- Symlinking: /home/apex/cognipilot/cranium/install/b3rb_rviz/share/ament_index/resource_index/packages/b3rb_rviz
+[2.179s] -- Symlinking: /home/apex/cognipilot/cranium/install/b3rb_rviz/share/b3rb_rviz/cmake/b3rb_rvizConfig.cmake
+[2.198s] -- Symlinking: /home/apex/cognipilot/cranium/install/b3rb_rviz/share/b3rb_rviz/cmake/b3rb_rvizConfig-version.cmake
+[2.216s] -- Symlinking: /home/apex/cognipilot/cranium/install/b3rb_rviz/share/b3rb_rviz/package.xml
+[2.241s] Invoked command in '/home/apex/cognipilot/cranium/build/b3rb_rviz' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/apex/cognipilot/cranium/build/b3rb_rviz

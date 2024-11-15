@@ -1,0 +1,8 @@
+msg/BezierCurve.idl
+msg/BezierCurve.msg
+msg/BezierTrajectory.idl
+msg/BezierTrajectory.msg
+msg/PixyVector.idl
+msg/PixyVector.msg
+msg/Status.idl
+msg/Status.msg

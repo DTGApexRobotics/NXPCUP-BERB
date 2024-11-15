@@ -1,0 +1,1 @@
+/home/apex/cognipilot/cranium/build/synapse_protobuf/proto/bezier_curve.pb.h

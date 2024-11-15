@@ -1,0 +1,6 @@
+Invoking command in '/home/apex/cognipilot/cranium/build/synapse_msgs': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/apex/cognipilot/cranium/src/synapse_msgs -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/apex/cognipilot/cranium/install/synapse_msgs
+Invoked command in '/home/apex/cognipilot/cranium/build/synapse_msgs' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/apex/cognipilot/cranium/src/synapse_msgs -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/apex/cognipilot/cranium/install/synapse_msgs
+Invoking command in '/home/apex/cognipilot/cranium/build/synapse_msgs': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/apex/cognipilot/cranium/build/synapse_msgs -- -j4 -l4
+Invoked command in '/home/apex/cognipilot/cranium/build/synapse_msgs' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/apex/cognipilot/cranium/build/synapse_msgs -- -j4 -l4
+Invoking command in '/home/apex/cognipilot/cranium/build/synapse_msgs': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/apex/cognipilot/cranium/build/synapse_msgs
+Invoked command in '/home/apex/cognipilot/cranium/build/synapse_msgs' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/apex/cognipilot/cranium/build/synapse_msgs

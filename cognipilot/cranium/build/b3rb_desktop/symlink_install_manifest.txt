@@ -1,0 +1,15 @@
+/home/apex/cognipilot/cranium/install/b3rb_desktop/share/ament_index/resource_index/package_run_dependencies/b3rb_desktop
+/home/apex/cognipilot/cranium/install/b3rb_desktop/share/ament_index/resource_index/parent_prefix_path/b3rb_desktop
+/home/apex/cognipilot/cranium/install/b3rb_desktop/share/b3rb_desktop/environment/ament_prefix_path.sh
+/home/apex/cognipilot/cranium/install/b3rb_desktop/share/b3rb_desktop/environment/ament_prefix_path.dsv
+/home/apex/cognipilot/cranium/install/b3rb_desktop/share/b3rb_desktop/environment/path.sh
+/home/apex/cognipilot/cranium/install/b3rb_desktop/share/b3rb_desktop/environment/path.dsv
+/home/apex/cognipilot/cranium/install/b3rb_desktop/share/b3rb_desktop/local_setup.bash
+/home/apex/cognipilot/cranium/install/b3rb_desktop/share/b3rb_desktop/local_setup.sh
+/home/apex/cognipilot/cranium/install/b3rb_desktop/share/b3rb_desktop/local_setup.zsh
+/home/apex/cognipilot/cranium/install/b3rb_desktop/share/b3rb_desktop/local_setup.dsv
+/home/apex/cognipilot/cranium/install/b3rb_desktop/share/b3rb_desktop/package.dsv
+/home/apex/cognipilot/cranium/install/b3rb_desktop/share/ament_index/resource_index/packages/b3rb_desktop
+/home/apex/cognipilot/cranium/install/b3rb_desktop/share/b3rb_desktop/cmake/b3rb_desktopConfig.cmake
+/home/apex/cognipilot/cranium/install/b3rb_desktop/share/b3rb_desktop/cmake/b3rb_desktopConfig-version.cmake
+/home/apex/cognipilot/cranium/install/b3rb_desktop/share/b3rb_desktop/package.xml

@@ -1,0 +1,16 @@
+/home/apex/cognipilot/cranium/install/cerebri_bringup/share/cerebri_bringup/launch/cerebri.launch.py
+/home/apex/cognipilot/cranium/install/cerebri_bringup/share/ament_index/resource_index/package_run_dependencies/cerebri_bringup
+/home/apex/cognipilot/cranium/install/cerebri_bringup/share/ament_index/resource_index/parent_prefix_path/cerebri_bringup
+/home/apex/cognipilot/cranium/install/cerebri_bringup/share/cerebri_bringup/environment/ament_prefix_path.sh
+/home/apex/cognipilot/cranium/install/cerebri_bringup/share/cerebri_bringup/environment/ament_prefix_path.dsv
+/home/apex/cognipilot/cranium/install/cerebri_bringup/share/cerebri_bringup/environment/path.sh
+/home/apex/cognipilot/cranium/install/cerebri_bringup/share/cerebri_bringup/environment/path.dsv
+/home/apex/cognipilot/cranium/install/cerebri_bringup/share/cerebri_bringup/local_setup.bash
+/home/apex/cognipilot/cranium/install/cerebri_bringup/share/cerebri_bringup/local_setup.sh
+/home/apex/cognipilot/cranium/install/cerebri_bringup/share/cerebri_bringup/local_setup.zsh
+/home/apex/cognipilot/cranium/install/cerebri_bringup/share/cerebri_bringup/local_setup.dsv
+/home/apex/cognipilot/cranium/install/cerebri_bringup/share/cerebri_bringup/package.dsv
+/home/apex/cognipilot/cranium/install/cerebri_bringup/share/ament_index/resource_index/packages/cerebri_bringup
+/home/apex/cognipilot/cranium/install/cerebri_bringup/share/cerebri_bringup/cmake/cerebri_bringupConfig.cmake
+/home/apex/cognipilot/cranium/install/cerebri_bringup/share/cerebri_bringup/cmake/cerebri_bringupConfig-version.cmake
+/home/apex/cognipilot/cranium/install/cerebri_bringup/share/cerebri_bringup/package.xml

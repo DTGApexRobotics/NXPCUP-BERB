@@ -1,0 +1,1 @@
+/home/apex/cognipilot/cranium/src/synapse_ros/launch/synapse_ros.launch.py

@@ -1,0 +1,1 @@
+/home/apex/cognipilot/cranium/build/synapse_protobuf/proto/status.pb.h

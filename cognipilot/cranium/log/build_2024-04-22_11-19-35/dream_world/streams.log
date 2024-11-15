@@ -1,0 +1,101 @@
+[0.080s] Invoking command in '/home/apex/cognipilot/cranium/build/dream_world': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/apex/cognipilot/cranium/build/dream_world -- -j4 -l4
+[0.310s] Invoked command in '/home/apex/cognipilot/cranium/build/dream_world' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/apex/cognipilot/cranium/build/dream_world -- -j4 -l4
+[0.379s] Invoking command in '/home/apex/cognipilot/cranium/build/dream_world': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/apex/cognipilot/cranium/build/dream_world
+[0.407s] -- Install configuration: ""
+[0.460s] -- Execute custom install script
+[0.528s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/scripts/model.material
+[0.561s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/BOXSET_Albedo.png
+[0.630s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/BOXSET_Emissive.png
+[0.632s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/BOXSET_Metalness.png
+[0.638s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/BOXSET_Normal.png
+[0.639s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/BOXSET_Roughness.png
+[0.641s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/Crates_Crates_BaseColor.png
+[0.655s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/Crates_Crates_Normal.png
+[0.655s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/Crates_Crates_Roughness.png
+[0.665s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/DepotLightmap.png
+[0.666s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/FANS_Albedo.png
+[0.667s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/FANS_Metalness.png
+[0.673s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/FANS_Normal.png
+[0.674s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/FANS_Roughness.png
+[0.675s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/FLOOR_Albedo.png
+[0.675s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/FLOOR_Metalness.png
+[0.676s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/FLOOR_Normal.png
+[0.678s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/FLOOR_Roughness.png
+[0.680s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/FanBack_FanBack_BaseColor.png
+[0.680s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/FireAlarmPole_Albedo.png
+[0.681s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/FireAlarmPole_Metalness.png
+[0.681s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/FireAlarmPole_Normal.png
+[0.683s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/FireAlarmPole_Roughness.png
+[0.683s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/FireAlarm_Albedo.png
+[0.684s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/FireAlarm_Metalness.png
+[0.685s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/FireAlarm_Normal.png
+[0.687s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/FireAlarm_Roughness.png
+[0.688s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/Forklift_Forklift_BaseColor.png
+[0.690s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/Forklift_Forklift_Metallic.png
+[0.692s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/Forklift_Forklift_Normal.png
+[0.694s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/Forklift_Forklift_Roughness.png
+[0.696s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/INTERCOM_Albedo.png
+[0.698s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/INTERCOM_Emissive.png
+[0.715s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/INTERCOM_Metalness.png
+[0.716s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/INTERCOM_Normal.png
+[0.717s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/INTERCOM_Roughness.png
+[0.718s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/PILLERS_Albedo.png
+[0.718s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/PILLERS_Metalness.png
+[0.719s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/PILLERS_Normal.png
+[0.719s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/PILLERS_Roughness.png
+[0.719s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/Pipes_Albedo.png
+[0.720s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/Pipes_Metalness.png
+[0.721s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/Pipes_Normal.png
+[0.721s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/Pipes_Roughness.png
+[0.721s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/ROOF_Albedo.png
+[0.722s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/ROOF_Emissive.png
+[0.722s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/ROOF_Metalness.png
+[0.722s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/ROOF_Normal.png
+[0.737s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/ROOF_Roughness.png
+[0.739s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/STAIRS_Albedo.png
+[0.742s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/STAIRS_Metalness.png
+[0.749s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/STAIRS_Normal.png
+[0.750s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/STAIRS_Roughness.png
+[0.750s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/WALLS_Albedo.png
+[0.750s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/WALLS_Metalness.png
+[0.750s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/WALLS_Normal.png
+[0.751s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/WALLS_Roughness.png
+[0.751s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/Window_WINDOW_BaseColor.png
+[0.752s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/Window_WINDOW_Metallic.png
+[0.752s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/materials/textures/Window_WINDOW_Roughness.png
+[0.753s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/meshes/Crates.dae
+[0.753s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/meshes/Depot.dae
+[0.753s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/model.config
+[0.754s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/model.sdf
+[0.754s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/thumbnails/0.png
+[0.757s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/thumbnails/1.png
+[0.757s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/thumbnails/2.png
+[0.758s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/thumbnails/3.png
+[0.759s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/thumbnails/4.png
+[0.759s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/dream_world/share/dream_world/models/Depot/thumbnails/5.png
+[0.780s] -- Symlinking: /home/apex/cognipilot/cranium/install/dream_world/share/dream_world/models/nxp_raceway_octagon/LICENSE
+[0.806s] -- Symlinking: /home/apex/cognipilot/cranium/install/dream_world/share/dream_world/models/nxp_raceway_octagon/meshes/CourseOctaSwing.stl
+[0.841s] -- Symlinking: /home/apex/cognipilot/cranium/install/dream_world/share/dream_world/models/nxp_raceway_octagon/meshes/CourseOctaSwingBorder.dae
+[0.864s] -- Symlinking: /home/apex/cognipilot/cranium/install/dream_world/share/dream_world/models/nxp_raceway_octagon/meshes/CourseOctaSwingBorder.stl
+[0.887s] -- Symlinking: /home/apex/cognipilot/cranium/install/dream_world/share/dream_world/models/nxp_raceway_octagon/meshes/CourseOctaSwingInside.dae
+[0.908s] -- Symlinking: /home/apex/cognipilot/cranium/install/dream_world/share/dream_world/models/nxp_raceway_octagon/meshes/CourseOctaSwingInside.stl
+[0.943s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/dream_world/share/dream_world/worlds/basic_map.sdf
+[0.944s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/dream_world/share/dream_world/worlds/depot.sdf
+[0.944s] -- Symlinking: /home/apex/cognipilot/cranium/install/dream_world/share/dream_world/worlds/nxp_raceway_octagon.sdf
+[0.967s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/dream_world/share/dream_world/environment/dream_world.dsv
+[0.967s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/dream_world/share/ament_index/resource_index/package_run_dependencies/dream_world
+[1.629s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/dream_world/share/ament_index/resource_index/parent_prefix_path/dream_world
+[1.681s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/dream_world/share/dream_world/environment/ament_prefix_path.sh
+[1.683s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/dream_world/share/dream_world/environment/ament_prefix_path.dsv
+[1.683s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/dream_world/share/dream_world/environment/path.sh
+[1.684s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/dream_world/share/dream_world/environment/path.dsv
+[1.684s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/dream_world/share/dream_world/local_setup.bash
+[1.741s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/dream_world/share/dream_world/local_setup.sh
+[1.741s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/dream_world/share/dream_world/local_setup.zsh
+[1.741s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/dream_world/share/dream_world/local_setup.dsv
+[1.742s] -- Symlinking: /home/apex/cognipilot/cranium/install/dream_world/share/dream_world/package.dsv
+[1.836s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/dream_world/share/ament_index/resource_index/packages/dream_world
+[1.837s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/dream_world/share/dream_world/cmake/dream_worldConfig.cmake
+[1.837s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/dream_world/share/dream_world/cmake/dream_worldConfig-version.cmake
+[1.838s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/dream_world/share/dream_world/package.xml
+[1.842s] Invoked command in '/home/apex/cognipilot/cranium/build/dream_world' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/apex/cognipilot/cranium/build/dream_world

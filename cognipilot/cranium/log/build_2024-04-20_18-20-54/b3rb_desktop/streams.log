@@ -1,0 +1,44 @@
+[0.117s] Invoking command in '/home/apex/cognipilot/cranium/build/b3rb_desktop': AMENT_PREFIX_PATH=/home/apex/cognipilot/cranium/install/b3rb_rviz:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/apex/cognipilot/cranium/install/b3rb_rviz:/opt/ros/humble /usr/bin/cmake /home/apex/cognipilot/cranium/src/b3rb_desktop/b3rb_desktop -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/apex/cognipilot/cranium/install/b3rb_desktop
+[0.607s] -- The C compiler identification is GNU 11.4.0
+[1.159s] -- The CXX compiler identification is GNU 11.4.0
+[1.219s] -- Detecting C compiler ABI info
+[1.935s] -- Detecting C compiler ABI info - done
+[2.013s] -- Check for working C compiler: /usr/bin/cc - skipped
+[2.016s] -- Detecting C compile features
+[2.023s] -- Detecting C compile features - done
+[2.047s] -- Detecting CXX compiler ABI info
+[2.803s] -- Detecting CXX compiler ABI info - done
+[2.885s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[2.890s] -- Detecting CXX compile features
+[2.892s] -- Detecting CXX compile features - done
+[2.923s] -- Found ament_cmake: 1.3.8 (/opt/ros/humble/share/ament_cmake/cmake)
+[4.671s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[5.080s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[5.296s] -- Found ament_lint_auto: 0.12.10 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[6.090s] -- Added test 'lint_cmake' to check CMake code style
+[6.093s] -- Added test 'xmllint' to check XML markup files
+[6.125s] -- Configuring done
+[6.149s] -- Generating done
+[6.161s] -- Build files have been written to: /home/apex/cognipilot/cranium/build/b3rb_desktop
+[6.205s] Invoked command in '/home/apex/cognipilot/cranium/build/b3rb_desktop' returned '0': AMENT_PREFIX_PATH=/home/apex/cognipilot/cranium/install/b3rb_rviz:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/apex/cognipilot/cranium/install/b3rb_rviz:/opt/ros/humble /usr/bin/cmake /home/apex/cognipilot/cranium/src/b3rb_desktop/b3rb_desktop -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/apex/cognipilot/cranium/install/b3rb_desktop
+[6.206s] Invoking command in '/home/apex/cognipilot/cranium/build/b3rb_desktop': AMENT_PREFIX_PATH=/home/apex/cognipilot/cranium/install/b3rb_rviz:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/apex/cognipilot/cranium/install/b3rb_rviz:/opt/ros/humble /usr/bin/cmake --build /home/apex/cognipilot/cranium/build/b3rb_desktop -- -j4 -l4
+[6.506s] Invoked command in '/home/apex/cognipilot/cranium/build/b3rb_desktop' returned '0': AMENT_PREFIX_PATH=/home/apex/cognipilot/cranium/install/b3rb_rviz:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/apex/cognipilot/cranium/install/b3rb_rviz:/opt/ros/humble /usr/bin/cmake --build /home/apex/cognipilot/cranium/build/b3rb_desktop -- -j4 -l4
+[6.795s] Invoking command in '/home/apex/cognipilot/cranium/build/b3rb_desktop': AMENT_PREFIX_PATH=/home/apex/cognipilot/cranium/install/b3rb_rviz:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/apex/cognipilot/cranium/install/b3rb_rviz:/opt/ros/humble /usr/bin/cmake --install /home/apex/cognipilot/cranium/build/b3rb_desktop
+[6.839s] -- Install configuration: ""
+[6.845s] -- Execute custom install script
+[6.848s] -- Symlinking: /home/apex/cognipilot/cranium/install/b3rb_desktop/share/ament_index/resource_index/package_run_dependencies/b3rb_desktop
+[6.932s] -- Symlinking: /home/apex/cognipilot/cranium/install/b3rb_desktop/share/ament_index/resource_index/parent_prefix_path/b3rb_desktop
+[7.001s] -- Symlinking: /home/apex/cognipilot/cranium/install/b3rb_desktop/share/b3rb_desktop/environment/ament_prefix_path.sh
+[7.074s] -- Symlinking: /home/apex/cognipilot/cranium/install/b3rb_desktop/share/b3rb_desktop/environment/ament_prefix_path.dsv
+[7.135s] -- Symlinking: /home/apex/cognipilot/cranium/install/b3rb_desktop/share/b3rb_desktop/environment/path.sh
+[7.202s] -- Symlinking: /home/apex/cognipilot/cranium/install/b3rb_desktop/share/b3rb_desktop/environment/path.dsv
+[7.274s] -- Symlinking: /home/apex/cognipilot/cranium/install/b3rb_desktop/share/b3rb_desktop/local_setup.bash
+[7.340s] -- Symlinking: /home/apex/cognipilot/cranium/install/b3rb_desktop/share/b3rb_desktop/local_setup.sh
+[7.399s] -- Symlinking: /home/apex/cognipilot/cranium/install/b3rb_desktop/share/b3rb_desktop/local_setup.zsh
+[7.451s] -- Symlinking: /home/apex/cognipilot/cranium/install/b3rb_desktop/share/b3rb_desktop/local_setup.dsv
+[7.486s] -- Symlinking: /home/apex/cognipilot/cranium/install/b3rb_desktop/share/b3rb_desktop/package.dsv
+[7.562s] -- Symlinking: /home/apex/cognipilot/cranium/install/b3rb_desktop/share/ament_index/resource_index/packages/b3rb_desktop
+[7.627s] -- Symlinking: /home/apex/cognipilot/cranium/install/b3rb_desktop/share/b3rb_desktop/cmake/b3rb_desktopConfig.cmake
+[7.688s] -- Symlinking: /home/apex/cognipilot/cranium/install/b3rb_desktop/share/b3rb_desktop/cmake/b3rb_desktopConfig-version.cmake
+[7.715s] -- Symlinking: /home/apex/cognipilot/cranium/install/b3rb_desktop/share/b3rb_desktop/package.xml
+[7.787s] Invoked command in '/home/apex/cognipilot/cranium/build/b3rb_desktop' returned '0': AMENT_PREFIX_PATH=/home/apex/cognipilot/cranium/install/b3rb_rviz:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/apex/cognipilot/cranium/install/b3rb_rviz:/opt/ros/humble /usr/bin/cmake --install /home/apex/cognipilot/cranium/build/b3rb_desktop

@@ -1,0 +1,89 @@
+[0.110s] Invoking command in '/home/apex/cognipilot/cranium/build/corti': CMAKE_PREFIX_PATH=/home/apex/cognipilot/cranium/install/synapse_msgs:/home/apex/cognipilot/electrode/install/electrode:/home/apex/cognipilot/cranium/install/synapse_ros:/home/apex/cognipilot/cranium/install/synapse_gz:/home/apex/cognipilot/cranium/install/synapse_tinyframe:/home/apex/cognipilot/cranium/install/synapse_protobuf:/home/apex/cognipilot/cranium/install/corti:/home/apex/cognipilot/cranium/install/dream_world:/home/apex/cognipilot/cranium/install/cerebri_bringup:/home/apex/cognipilot/cranium/install/b3rb_simulator:/home/apex/cognipilot/cranium/install/b3rb_desktop:/home/apex/cognipilot/cranium/install/b3rb_rviz:/home/apex/cognipilot/cranium/install/b3rb_nav2:/home/apex/cognipilot/cranium/install/b3rb_gz_resource:/home/apex/cognipilot/cranium/install/b3rb_gz_bringup:/home/apex/cognipilot/cranium/install/b3rb_description:/opt/ros/humble LD_LIBRARY_PATH=/home/apex/cognipilot/cranium/install/synapse_msgs/lib:/home/apex/cognipilot/cranium/install/synapse_tinyframe/lib:/home/apex/cognipilot/cranium/install/synapse_protobuf/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib /usr/bin/cmake --build /home/apex/cognipilot/cranium/build/corti -- -j4 -l4
+[1.390s] -- Found ament_cmake: 1.3.8 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.390s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[1.391s] -- Found geometry_msgs: 4.2.3 (/opt/ros/humble/share/geometry_msgs/cmake)
+[1.391s] -- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[1.391s] -- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[1.391s] -- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[1.392s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.392s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.882s] -- Found nav_msgs: 4.2.3 (/opt/ros/humble/share/nav_msgs/cmake)
+[2.514s] -- Found rclcpp: 16.0.8 (/opt/ros/humble/share/rclcpp/cmake)
+[3.174s] -- Found rmw_implementation_cmake: 6.1.1 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[3.234s] -- Found rmw_cyclonedds_cpp: 1.3.4 (/opt/ros/humble/share/rmw_cyclonedds_cpp/cmake)
+[3.916s] -- Using RMW implementation 'rmw_cyclonedds_cpp' as default
+[5.055s] -- Found rclpy: 3.3.12 (/opt/ros/humble/share/rclpy/cmake)
+[5.056s] -- Found synapse_msgs: 0.0.1 (/home/apex/cognipilot/cranium/install/synapse_msgs/share/synapse_msgs/cmake)
+[5.308s] -- Found tf2: 0.25.6 (/opt/ros/humble/share/tf2/cmake)
+[5.409s] -- Found tf2_ros: 0.25.6 (/opt/ros/humble/share/tf2_ros/cmake)
+[7.324s] -- Found ament_lint_auto: 0.12.10 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[8.050s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[8.051s] -- Configured cppcheck include dirs: 
+[8.052s] -- Configured cppcheck exclude dirs and/or files: 
+[8.054s] -- Added test 'flake8' to check Python code syntax and style conventions
+[8.057s] -- Added test 'lint_cmake' to check CMake code style
+[8.059s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[8.069s] -- Added test 'uncrustify' to check C / C++ code style
+[8.069s] -- Configured uncrustify additional arguments: 
+[8.071s] -- Added test 'xmllint' to check XML markup files
+[8.076s] -- Configuring done
+[8.206s] -- Generating done
+[8.216s] -- Build files have been written to: /home/apex/cognipilot/cranium/build/corti
+[8.336s] [35m[1mConsolidate compiler generated dependencies of target odom_to_tf[0m
+[8.356s] [35m[1mConsolidate compiler generated dependencies of target bezier6[0m
+[8.401s] [ 25%] Built target bezier6
+[8.405s] [35m[1mConsolidate compiler generated dependencies of target tf_to_odom[0m
+[8.472s] [ 50%] Built target odom_to_tf
+[8.484s] [ 50%] Built target ament_cmake_python_symlink_corti
+[8.534s] [35m[1mConsolidate compiler generated dependencies of target rover_planner[0m
+[8.541s] [ 75%] Built target tf_to_odom
+[8.588s] [ 87%] [32mBuilding CXX object CMakeFiles/rover_planner.dir/src/rover_planner.cpp.o[0m
+[9.410s] running egg_info
+[9.412s] writing corti.egg-info/PKG-INFO
+[9.413s] writing dependency_links to corti.egg-info/dependency_links.txt
+[9.414s] writing top-level names to corti.egg-info/top_level.txt
+[9.421s] reading manifest file 'corti.egg-info/SOURCES.txt'
+[9.444s] writing manifest file 'corti.egg-info/SOURCES.txt'
+[9.557s] [ 87%] Built target ament_cmake_python_build_corti_egg
+[43.547s] [100%] [32m[1mLinking CXX executable rover_planner[0m
+[45.705s] [100%] Built target rover_planner
+[45.735s] Invoked command in '/home/apex/cognipilot/cranium/build/corti' returned '0': CMAKE_PREFIX_PATH=/home/apex/cognipilot/cranium/install/synapse_msgs:/home/apex/cognipilot/electrode/install/electrode:/home/apex/cognipilot/cranium/install/synapse_ros:/home/apex/cognipilot/cranium/install/synapse_gz:/home/apex/cognipilot/cranium/install/synapse_tinyframe:/home/apex/cognipilot/cranium/install/synapse_protobuf:/home/apex/cognipilot/cranium/install/corti:/home/apex/cognipilot/cranium/install/dream_world:/home/apex/cognipilot/cranium/install/cerebri_bringup:/home/apex/cognipilot/cranium/install/b3rb_simulator:/home/apex/cognipilot/cranium/install/b3rb_desktop:/home/apex/cognipilot/cranium/install/b3rb_rviz:/home/apex/cognipilot/cranium/install/b3rb_nav2:/home/apex/cognipilot/cranium/install/b3rb_gz_resource:/home/apex/cognipilot/cranium/install/b3rb_gz_bringup:/home/apex/cognipilot/cranium/install/b3rb_description:/opt/ros/humble LD_LIBRARY_PATH=/home/apex/cognipilot/cranium/install/synapse_msgs/lib:/home/apex/cognipilot/cranium/install/synapse_tinyframe/lib:/home/apex/cognipilot/cranium/install/synapse_protobuf/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib /usr/bin/cmake --build /home/apex/cognipilot/cranium/build/corti -- -j4 -l4
+[45.832s] Invoking command in '/home/apex/cognipilot/cranium/build/corti': CMAKE_PREFIX_PATH=/home/apex/cognipilot/cranium/install/synapse_msgs:/home/apex/cognipilot/electrode/install/electrode:/home/apex/cognipilot/cranium/install/synapse_ros:/home/apex/cognipilot/cranium/install/synapse_gz:/home/apex/cognipilot/cranium/install/synapse_tinyframe:/home/apex/cognipilot/cranium/install/synapse_protobuf:/home/apex/cognipilot/cranium/install/corti:/home/apex/cognipilot/cranium/install/dream_world:/home/apex/cognipilot/cranium/install/cerebri_bringup:/home/apex/cognipilot/cranium/install/b3rb_simulator:/home/apex/cognipilot/cranium/install/b3rb_desktop:/home/apex/cognipilot/cranium/install/b3rb_rviz:/home/apex/cognipilot/cranium/install/b3rb_nav2:/home/apex/cognipilot/cranium/install/b3rb_gz_resource:/home/apex/cognipilot/cranium/install/b3rb_gz_bringup:/home/apex/cognipilot/cranium/install/b3rb_description:/opt/ros/humble LD_LIBRARY_PATH=/home/apex/cognipilot/cranium/install/synapse_msgs/lib:/home/apex/cognipilot/cranium/install/synapse_tinyframe/lib:/home/apex/cognipilot/cranium/install/synapse_protobuf/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib /usr/bin/cmake --install /home/apex/cognipilot/cranium/build/corti
+[45.853s] -- Install configuration: ""
+[45.854s] -- Execute custom install script
+[45.872s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/corti/share/corti/environment/pythonpath.sh
+[45.872s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/corti/share/corti/environment/pythonpath.dsv
+[45.875s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/corti/local/lib/python3.10/dist-packages/corti-0.0.0-py3.10.egg-info/PKG-INFO
+[45.875s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/corti/local/lib/python3.10/dist-packages/corti-0.0.0-py3.10.egg-info/SOURCES.txt
+[45.876s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/corti/local/lib/python3.10/dist-packages/corti-0.0.0-py3.10.egg-info/dependency_links.txt
+[45.877s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/corti/local/lib/python3.10/dist-packages/corti-0.0.0-py3.10.egg-info/top_level.txt
+[45.879s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/corti/local/lib/python3.10/dist-packages/corti/SE2Lie.py
+[45.879s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/corti/local/lib/python3.10/dist-packages/corti/TimeOptBez.py
+[45.880s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/corti/local/lib/python3.10/dist-packages/corti/__init__.py
+[45.881s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/corti/local/lib/python3.10/dist-packages/corti/bezier_rover_planning.py
+[45.881s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/corti/local/lib/python3.10/dist-packages/corti/rover_control.py
+[45.882s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/corti/local/lib/python3.10/dist-packages/corti/rover_planning.py
+[45.883s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/corti/lib/corti/rover_planner
+[45.884s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/corti/lib/corti/odom_to_tf
+[45.884s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/corti/lib/corti/tf_to_odom
+[45.886s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/corti/share/corti/launch/corti.launch.py
+[45.886s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/corti/share/corti/launch/virtual_joy.launch.py
+[45.888s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/corti/lib/corti/virtual_joy.py
+[45.889s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/corti/lib/corti/rover_fixed_trajectory.py
+[45.890s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/corti/share/ament_index/resource_index/package_run_dependencies/corti
+[45.891s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/corti/share/ament_index/resource_index/parent_prefix_path/corti
+[45.892s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/corti/share/corti/environment/ament_prefix_path.sh
+[45.893s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/corti/share/corti/environment/ament_prefix_path.dsv
+[45.894s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/corti/share/corti/environment/path.sh
+[45.894s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/corti/share/corti/environment/path.dsv
+[45.896s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/corti/share/corti/local_setup.bash
+[45.896s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/corti/share/corti/local_setup.sh
+[45.898s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/corti/share/corti/local_setup.zsh
+[45.898s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/corti/share/corti/local_setup.dsv
+[45.899s] -- Symlinking: /home/apex/cognipilot/cranium/install/corti/share/corti/package.dsv
+[45.921s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/corti/share/ament_index/resource_index/packages/corti
+[45.923s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/corti/share/corti/cmake/cortiConfig.cmake
+[45.923s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/corti/share/corti/cmake/cortiConfig-version.cmake
+[45.924s] -- Up-to-date symlink: /home/apex/cognipilot/cranium/install/corti/share/corti/package.xml
+[46.017s] Listing '/home/apex/cognipilot/cranium/install/corti/local/lib/python3.10/dist-packages/corti'...
+[46.040s] Invoked command in '/home/apex/cognipilot/cranium/build/corti' returned '0': CMAKE_PREFIX_PATH=/home/apex/cognipilot/cranium/install/synapse_msgs:/home/apex/cognipilot/electrode/install/electrode:/home/apex/cognipilot/cranium/install/synapse_ros:/home/apex/cognipilot/cranium/install/synapse_gz:/home/apex/cognipilot/cranium/install/synapse_tinyframe:/home/apex/cognipilot/cranium/install/synapse_protobuf:/home/apex/cognipilot/cranium/install/corti:/home/apex/cognipilot/cranium/install/dream_world:/home/apex/cognipilot/cranium/install/cerebri_bringup:/home/apex/cognipilot/cranium/install/b3rb_simulator:/home/apex/cognipilot/cranium/install/b3rb_desktop:/home/apex/cognipilot/cranium/install/b3rb_rviz:/home/apex/cognipilot/cranium/install/b3rb_nav2:/home/apex/cognipilot/cranium/install/b3rb_gz_resource:/home/apex/cognipilot/cranium/install/b3rb_gz_bringup:/home/apex/cognipilot/cranium/install/b3rb_description:/opt/ros/humble LD_LIBRARY_PATH=/home/apex/cognipilot/cranium/install/synapse_msgs/lib:/home/apex/cognipilot/cranium/install/synapse_tinyframe/lib:/home/apex/cognipilot/cranium/install/synapse_protobuf/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib /usr/bin/cmake --install /home/apex/cognipilot/cranium/build/corti

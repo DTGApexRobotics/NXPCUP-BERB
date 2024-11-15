@@ -1,0 +1,9 @@
+{
+  "package_name": "synapse_msgs",
+  "non_idl_tuples": [
+    "/home/apex/cognipilot/cranium/src/synapse_msgs:msg/BezierCurve.msg",
+    "/home/apex/cognipilot/cranium/src/synapse_msgs:msg/BezierTrajectory.msg",
+    "/home/apex/cognipilot/cranium/src/synapse_msgs:msg/Status.msg",
+    "/home/apex/cognipilot/cranium/src/synapse_msgs:msg/PixyVector.msg"
+  ]
+}
